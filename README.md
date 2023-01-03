@@ -37,6 +37,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Edison Junior](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/edison-junior-46a939232)](www.linkedin.com/in/edison-junior-46a939232)
+[![Linkedin: Edison Junior](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edison-junior-46a939232)](https://www.linkedin.com/in/edison-junior-46a939232)
 [![Gmail Badge](https://img.shields.io/badge/-edisonpereirajr@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edisonpereirajr@hotmail.com)](mailto:edisonpereirajr@hotmail.com)
 [![GitHub Edisonepj]( https://img.shields.io/github/followers/Edisonepj?label=follow&style=social)](https://github.com/Edisonepj)
