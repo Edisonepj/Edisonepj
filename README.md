@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Engenharia da Computação na <a href="https://univesp.br/">UNIVESP</a>.
 - 💼 &nbsp; Trabalhando como **Militar** na <a href="https://www.fab.mil.br/index.php">FAB</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Engenharia da ComputaçãoO**.
+- 🌱 &nbsp; Aprendendo mais sobre **Engenharia da Computação**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
